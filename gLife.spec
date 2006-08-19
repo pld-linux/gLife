@@ -36,7 +36,7 @@ itp.
 %setup -q
 
 %build
-%configure2_13 \
+%configure2_13
 %{__make}
 
 %install
