@@ -1,5 +1,5 @@
 Summary:	An artificial life simulator
-Summary(pl):	Symulator sztucznej inteligencji.
+Summary(pl):	Symulator sztucznej inteligencji
 Name:		gLife
 Version:	0.2.1
 Release:	1
@@ -52,5 +52,5 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc AUTHORS ChangeLog NEWS README TODO
 %attr(755,root,root) %{_bindir}/*
-%{_datadir}/glife/
+%{_datadir}/glife
 %{_datadir}/gnome/*
