@@ -1,6 +1,6 @@
 # TODO: desktop patch, icon
 Summary:	An artificial life simulator
-Summary(pl.UTF-8):   Symulator sztucznej inteligencji
+Summary(pl.UTF-8):	Symulator sztucznej inteligencji
 Name:		gLife
 Version:	0.2.1
 Release:	1
