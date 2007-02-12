@@ -1,6 +1,6 @@
 # TODO: desktop patch, icon
 Summary:	An artificial life simulator
-Summary(pl):	Symulator sztucznej inteligencji
+Summary(pl.UTF-8):   Symulator sztucznej inteligencji
 Name:		gLife
 Version:	0.2.1
 Release:	1
@@ -23,13 +23,13 @@ much larger) ruleset than in the original game. Things need to be
 taken into account such as the terrain, age, sex, culture, movement,
 etc.
 
-%description -l pl
-gLife to próba uosobienia zasad rz±dz±cych w sztucznym ¿yciu. Sztuczne
-¿ycie jest rodzajem sztucznej inteligencji. Ten program przypomina
-"Conway's Game of Life" jednak znacznie siê od niego ró¿ni. gLife
-ukazuje sztuczn± spo³eczno¶æ (ludzk±). To oznacza, ¿e jest o wiele
-bardziej zró¿nicowane i z³o¿one od "Conway's Game of Life". Pod uwagê
-brane s± takie rzeczy jak teren, wiek, p³eæ, kultura, przemieszczanie
+%description -l pl.UTF-8
+gLife to prÃ³ba uosobienia zasad rzÄ…dzÄ…cych w sztucznym Å¼yciu. Sztuczne
+Å¼ycie jest rodzajem sztucznej inteligencji. Ten program przypomina
+"Conway's Game of Life" jednak znacznie siÄ™ od niego rÃ³Å¼ni. gLife
+ukazuje sztucznÄ… spoÅ‚ecznoÅ›Ä‡ (ludzkÄ…). To oznacza, Å¼e jest o wiele
+bardziej zrÃ³Å¼nicowane i zÅ‚oÅ¼one od "Conway's Game of Life". Pod uwagÄ™
+brane sÄ… takie rzeczy jak teren, wiek, pÅ‚eÄ‡, kultura, przemieszczanie
 itp.
 
 %prep
